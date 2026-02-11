@@ -47,7 +47,11 @@ This repository outlines the essential post-installation configuration steps for
 
 # 🎛️ Admin Panel vs Agent Panel
 
-### 🔐 Admin Panel
+### Admin Panel
+
+<p>
+<img width="853" height="498" alt="Screenshot RD26" src="https://github.com/user-attachments/assets/d1afe101-bca2-47bb-9205-e9ac6626184b" />
+</p>
 
 Used for system configuration and management:
 
@@ -61,6 +65,10 @@ Used for system configuration and management:
 This is where administrators control how the help desk functions.
 
 ### 🎧 Agent Panel
+
+<p>
+<img width="853" height="498" alt="Screenshot RD27" src="https://github.com/user-attachments/assets/bd6931b4-dc4e-460d-8fa3-7b9c07140fd2" />
+</p>
 
 Used for operational tasks:
 
