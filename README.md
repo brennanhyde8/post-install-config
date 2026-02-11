@@ -39,26 +39,173 @@ Once osTicket is installed, it must be configured to:
 This guide walks through each section inside the Admin and Agent panels.
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+🎛️ Admin Panel vs Agent Panel
+🔐 Admin Panel
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Used for system configuration and management:
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Roles
+
+Departments
+
+Teams
+
+SLAs
+
+Help Topics
+
+User settings
+
+This is where administrators control how the help desk functions.
+
+🎧 Agent Panel
+
+Used for operational tasks:
+
+Viewing and responding to tickets
+
+Managing users
+
+Daily support workflow
+
+This is where support staff work tickets.
+
+🔑 Create Roles (Permission Groups)
+
+📍 Admin Panel → Agents → Roles
+
+Create:
+
+Supreme Admin
+
+Roles determine what agents are allowed to do within the system (edit tickets, manage users, configure settings, etc.).
+
+🏢 Create Departments (Ticket Routing & Visibility)
+
+📍 Admin Panel → Agents → Departments
+
+Create:
+
+SysAdmins
+
+Departments help separate responsibilities such as:
+
+Help Desk
+
+System Administration
+
+Networking
+
+They control ticket assignment and visibility.
+
+👥 Create Teams (Cross-Department Groups)
+
+📍 Admin Panel → Agents → Teams
+
+Create:
+
+Online Banking
+
+Teams allow agents from different departments to collaborate on specific services or projects.
+
+🌐 Configure Ticket Submission Settings
+
+📍 Admin Panel → Settings → User Settings
+
+To allow anyone to submit tickets:
+
+Disable “Registration Required”
+
+To require authentication before ticket creation:
+
+Enable “Require registration and login”
+
+For business environments, requiring registration is recommended.
+
+👨‍💻 Add Agents (Staff Members)
+
+📍 Admin Panel → Agents → Add New
+
+Add:
+
+Jane → Department: SysAdmins
+
+John → Department: Support
+
+Agents are internal employees responsible for resolving tickets.
+
+👤 Add Users (Customers)
+
+📍 Agent Panel → Users → Add New
+
+Add:
+
+Karen
+
+Ken
+
+Users represent customers or employees submitting support requests.
+
+⏳ Configure Service Level Agreements (SLAs)
+
+📍 Admin Panel → Manage → SLA
+
+Create:
+
+Sev-A
+
+1-hour response time
+
+24/7 schedule
+
+Sev-B
+
+4-hour response time
+
+24/7 schedule
+
+Sev-C
+
+8-hour response time
+
+Business hours schedule
+
+SLAs define how quickly tickets must be addressed based on priority.
+
+📝 Create Help Topics
+
+📍 Admin Panel → Manage → Help Topics
+
+Add:
+
+Business Critical Outage
+
+Personal Computer Issues
+
+Equipment Request
+
+Password Reset
+
+Other
+
+Help Topics help categorize and route tickets efficiently.
+
+✅ Outcome
+
+After completing these configurations:
+
+Permissions are structured
+
+Departments are organized
+
+Teams enable collaboration
+
+Agents and users are created
+
+SLAs enforce response expectations
+
+Help topics streamline ticket intake
+
+The help desk system is now fully structured and ready for production-level use.
+
+🚀 This configuration transforms osTicket from a basic installation into a functional, enterprise-style ticketing environment suitable for IT support operations.
