@@ -77,13 +77,17 @@ This is where support staff work tickets.
 
 ---
 
-# 🔑 Create Roles (Permission Groups)
+# Create Roles (Permission Groups)
 
-📍 Admin Panel → Agents → Roles
+<p>
+<img width="853" height="498" alt="Screenshot RD28" src="https://github.com/user-attachments/assets/0f1968f0-02ef-48e7-b718-c4c56184fe61" />
+</p>
+
+ Admin Panel → Agents → Roles
 
 Create:
 
-* **Supreme Admin**
+ - "Supreme Admin"
 
 Roles determine what agents are allowed to do within the system (edit tickets, manage users, configure settings, etc.).
 
