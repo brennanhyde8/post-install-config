@@ -33,7 +33,7 @@ Once osTicket is installed, it must be configured to:
 - Add agents and users
 
 This guide walks through each section inside the Admin and Agent panels.
-<h2># Configuration Steps</h2>
+# <h2>Configuration Steps</h2>
 
 
 ## Admin Panel vs Agent Panel
