@@ -61,7 +61,7 @@ Used for system configuration and management:
 
 This is where administrators control how the help desk functions.
 
-### 🎧 Agent Panel
+### Agent Panel
 
 <p>
 <img width="853" height="498" alt="Screenshot RD27" src="https://github.com/user-attachments/assets/bd6931b4-dc4e-460d-8fa3-7b9c07140fd2" />
