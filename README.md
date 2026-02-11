@@ -158,7 +158,7 @@ For business environments, requiring registration is recommended.
 </p>
 
 <p>
-<img width="853" height="498" alt="Screenshot RD32" src="https://github.com/user-attachments/assets/9a6f7775-b142-4230-89b9-c505ee221c69" />
+<img width="851" height="497" alt="Screenshot RD33" src="https://github.com/user-attachments/assets/8e5c53ac-0b4b-4cb3-8926-d713d49cf3c2" />
 </p>
 
  Admin Panel → Agents → Add New
