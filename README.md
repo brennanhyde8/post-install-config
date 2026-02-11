@@ -37,8 +37,7 @@ This guide walks through each section inside the Admin and Agent panels.
 ---
 
 # Configuration Steps
-
---
+---
 
 ## Admin Panel vs Agent Panel
 
