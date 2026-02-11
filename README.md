@@ -231,17 +231,21 @@ SLAs define how quickly tickets must be addressed based on priority.
 
 ---
 
-# 📝 Create Help Topics
+# Create Help Topics
 
-📍 Admin Panel → Manage → Help Topics
+<p>
+<img width="1280" height="746" alt="image" src="https://github.com/user-attachments/assets/b73ec51f-7038-4269-94ba-a7de0a825059" />
+</p>
+
+ Admin Panel → Manage → Help Topics
 
 Add:
 
-* Business Critical Outage
-* Personal Computer Issues
-* Equipment Request
-* Password Reset
-* Other
+ - Business Critical Outage
+ - Personal Computer Issues
+ - Equipment Request
+ - Password Reset
+ - Other
 
 Help Topics help categorize and route tickets efficiently.
 
