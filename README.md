@@ -131,17 +131,21 @@ Teams allow agents from different departments to collaborate on specific service
 
 ---
 
-# 🌐 Configure Ticket Submission Settings
+# Configure Ticket Submission Settings
 
-📍 Admin Panel → Settings → User Settings
+<p>
+<img width="853" height="498" alt="Screenshot RD31" src="https://github.com/user-attachments/assets/039c0e67-5c9c-421e-af2f-1853a4b9673a" />
+</p>
+
+ Admin Panel → Settings → User Settings
 
 To allow anyone to submit tickets:
 
-* Disable “Registration Required”
+ - Disable “Registration Required”
 
 To require authentication before ticket creation:
 
-* Enable “Require registration and login”
+ - Enable “Require registration and login”
 
 For business environments, requiring registration is recommended.
 
