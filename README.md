@@ -204,7 +204,7 @@ Create:
 <img width="853" height="497" alt="Screenshot RD36" src="https://github.com/user-attachments/assets/9999b900-611e-406b-a2da-fba285b493d0" />
 </p>
 
- - "Sev-A"
+"Sev-A"
 
   - 1-hour response time
   - 24/7 schedule
@@ -213,7 +213,7 @@ Create:
 <img width="853" height="497" alt="Screenshot RD37" src="https://github.com/user-attachments/assets/9ca1e47d-da2b-4475-9028-f4aaf0ccd562" />
 </p>
 
- - "Sev-B"
+"Sev-B"
 
   - 4-hour response time
   - 24/7 schedule
@@ -222,7 +222,7 @@ Create:
 <img width="853" height="497" alt="Screenshot RD38" src="https://github.com/user-attachments/assets/6c7213b3-86dc-4c34-a8b4-8a82bb562c56" />
 </p>
 
- - "Sev-C"
+"Sev-C"
 
   - 8-hour response time
   - Business hours schedule
