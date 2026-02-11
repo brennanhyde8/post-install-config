@@ -33,10 +33,10 @@ Once osTicket is installed, it must be configured to:
 - Add agents and users
 
 This guide walks through each section inside the Admin and Agent panels.
-<h2>Configuration Steps</h2>
+<h2># Configuration Steps</h2>
 
 
-# Admin Panel vs Agent Panel
+## Admin Panel vs Agent Panel
 
 ### Admin Panel
 
@@ -71,7 +71,7 @@ This is where support staff work tickets.
 
 ---
 
-# Create Roles (Permission Groups)
+## Create Roles (Permission Groups)
 
 <p>
 <img width="853" height="498" alt="Screenshot RD28" src="https://github.com/user-attachments/assets/0f1968f0-02ef-48e7-b718-c4c56184fe61" />
@@ -87,7 +87,7 @@ Roles determine what agents are allowed to do within the system (edit tickets, m
 
 ---
 
-# Create Departments (Ticket Routing & Visibility)
+## Create Departments (Ticket Routing & Visibility)
 
 <p>
 <img width="853" height="498" alt="Screenshot RD29" src="https://github.com/user-attachments/assets/9946c687-633e-48e4-b454-1af7317c515d" />
@@ -109,7 +109,7 @@ They control ticket assignment and visibility.
 
 ---
 
-# Create Teams (Cross-Department Groups)
+## Create Teams (Cross-Department Groups)
 
 <p>
 <img width="853" height="498" alt="Screenshot RD30" src="https://github.com/user-attachments/assets/d9cb80f8-f861-4d1a-90de-d230b27be9c0" />
@@ -125,7 +125,7 @@ Teams allow agents from different departments to collaborate on specific service
 
 ---
 
-# Configure Ticket Submission Settings
+## Configure Ticket Submission Settings
 
 <p>
 <img width="853" height="498" alt="Screenshot RD31" src="https://github.com/user-attachments/assets/039c0e67-5c9c-421e-af2f-1853a4b9673a" />
@@ -145,7 +145,7 @@ For business environments, requiring registration is recommended.
 
 ---
 
-# Add Agents (Staff Members)
+## Add Agents (Staff Members)
 
 <p>
 <img width="853" height="498" alt="Screenshot RD32" src="https://github.com/user-attachments/assets/98b20fea-63f6-40e5-9a85-a433cf4f8029" />
@@ -166,7 +166,7 @@ Agents are internal employees responsible for resolving tickets.
 
 ---
 
-# Add Users (Customers)
+## Add Users (Customers)
 
 <p>
 <img width="853" height="497" alt="Screenshot RD34" src="https://github.com/user-attachments/assets/23052496-f1a6-45be-91aa-88bca3ef0240" />
@@ -188,7 +188,7 @@ Users represent customers or employees submitting support requests.
 
 ---
 
-# Configure Service Level Agreements (SLAs)
+## Configure Service Level Agreements (SLAs)
 
  Admin Panel → Manage → SLA
 
@@ -225,7 +225,7 @@ SLAs define how quickly tickets must be addressed based on priority.
 
 ---
 
-# Create Help Topics
+## Create Help Topics
 
 <p>
 <img width="1280" height="746" alt="image" src="https://github.com/user-attachments/assets/b73ec51f-7038-4269-94ba-a7de0a825059" />
