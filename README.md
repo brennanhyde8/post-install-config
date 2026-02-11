@@ -36,13 +36,13 @@ Once osTicket is installed, it must be configured to:
 This guide walks through each section inside the Admin and Agent panels.
 <h2>Configuration Steps</h2>
 
-# 🖥️ osTicket System Configuration Guide
+# osTicket System Configuration Guide
 
 This repository outlines the essential post-installation configuration steps for setting up **osTicket** in a structured help desk environment. After completing the installation on your virtual machine via Remote Desktop, these steps prepare the system for real-world IT support operations.
 
 ---
 
-# 🎛️ Admin Panel vs Agent Panel
+# Admin Panel vs Agent Panel
 
 ### Admin Panel
 
