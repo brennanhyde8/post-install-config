@@ -115,13 +115,17 @@ They control ticket assignment and visibility.
 
 ---
 
-# 👥 Create Teams (Cross-Department Groups)
+# Create Teams (Cross-Department Groups)
 
-📍 Admin Panel → Agents → Teams
+<p>
+<img width="853" height="498" alt="Screenshot RD30" src="https://github.com/user-attachments/assets/d9cb80f8-f861-4d1a-90de-d230b27be9c0" />
+</p>
+
+ Admin Panel → Agents → Teams
 
 Create:
 
-* **Online Banking**
+ - "Online Banking"
 
 Teams allow agents from different departments to collaborate on specific services or projects.
 
