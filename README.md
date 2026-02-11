@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This repository outlines the essential post-installation configuration steps for setting up **osTicket** in a structured help desk environment. After completing the installation on your virtual machine via Remote Desktop, these steps prepare the system for real-world IT support operations.
+This repository outlines the essential post-installation configuration steps for setting up "osTicket" in a structured help desk environment. After completing the installation on your virtual machine via Remote Desktop, these steps prepare the system for real-world IT support operations.
 
 
 <h2>Environments and Technologies Used</h2>
