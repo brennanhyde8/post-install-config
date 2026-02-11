@@ -194,26 +194,38 @@ Users represent customers or employees submitting support requests.
 
 ---
 
-# ⏳ Configure Service Level Agreements (SLAs)
+# Configure Service Level Agreements (SLAs)
 
-📍 Admin Panel → Manage → SLA
+ Admin Panel → Manage → SLA
 
 Create:
 
-* **Sev-A**
+<p>
+<img width="853" height="497" alt="Screenshot RD36" src="https://github.com/user-attachments/assets/9999b900-611e-406b-a2da-fba285b493d0" />
+</p>
 
-  * 1-hour response time
-  * 24/7 schedule
+ - "Sev-A"
 
-* **Sev-B**
+  - 1-hour response time
+  - 24/7 schedule
 
-  * 4-hour response time
-  * 24/7 schedule
+<p>
+<img width="853" height="497" alt="Screenshot RD37" src="https://github.com/user-attachments/assets/9ca1e47d-da2b-4475-9028-f4aaf0ccd562" />
+</p>
 
-* **Sev-C**
+ - "Sev-B"
 
-  * 8-hour response time
-  * Business hours schedule
+  - 4-hour response time
+  - 24/7 schedule
+
+<p>
+<img width="853" height="497" alt="Screenshot RD38" src="https://github.com/user-attachments/assets/6c7213b3-86dc-4c34-a8b4-8a82bb562c56" />
+</p>
+
+ - "Sev-C"
+
+  - 8-hour response time
+  - Business hours schedule
 
 SLAs define how quickly tickets must be addressed based on priority.
 
