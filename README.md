@@ -151,14 +151,22 @@ For business environments, requiring registration is recommended.
 
 ---
 
-# 👨‍💻 Add Agents (Staff Members)
+# Add Agents (Staff Members)
 
-📍 Admin Panel → Agents → Add New
+<p>
+<img width="853" height="498" alt="Screenshot RD32" src="https://github.com/user-attachments/assets/98b20fea-63f6-40e5-9a85-a433cf4f8029" />
+</p>
+
+<p>
+<img width="853" height="498" alt="Screenshot RD32" src="https://github.com/user-attachments/assets/9a6f7775-b142-4230-89b9-c505ee221c69" />
+</p>
+
+ Admin Panel → Agents → Add New
 
 Add:
 
-* **Jane** → Department: SysAdmins
-* **John** → Department: Support
+ - "Jane" → Department: SysAdmins
+ - "John" → Department: Support
 
 Agents are internal employees responsible for resolving tickets.
 
