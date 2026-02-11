@@ -172,14 +172,23 @@ Agents are internal employees responsible for resolving tickets.
 
 ---
 
-# 👤 Add Users (Customers)
+# Add Users (Customers)
 
-📍 Agent Panel → Users → Add New
+<p>
+<img width="853" height="497" alt="Screenshot RD34" src="https://github.com/user-attachments/assets/23052496-f1a6-45be-91aa-88bca3ef0240" />
+</p>
+
+<p>
+<img width="853" height="497" alt="Screenshot RD35" src="https://github.com/user-attachments/assets/d50e0654-3144-49dd-abab-e38d8d4cb7d8" />
+
+</p>
+
+ Agent Panel → Users → Add New
 
 Add:
 
-* **Karen**
-* **Ken**
+ - "Karen"
+ - "Ken"
 
 Users represent customers or employees submitting support requests.
 
