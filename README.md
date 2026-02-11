@@ -93,19 +93,23 @@ Roles determine what agents are allowed to do within the system (edit tickets, m
 
 ---
 
-# 🏢 Create Departments (Ticket Routing & Visibility)
+# Create Departments (Ticket Routing & Visibility)
 
-📍 Admin Panel → Agents → Departments
+<p>
+<img width="853" height="498" alt="Screenshot RD29" src="https://github.com/user-attachments/assets/9946c687-633e-48e4-b454-1af7317c515d" />
+</p>
+
+ Admin Panel → Agents → Departments
 
 Create:
 
-* **SysAdmins**
+ - "SysAdmins"
 
 Departments help separate responsibilities such as:
 
-* Help Desk
-* System Administration
-* Networking
+ - Help Desk
+ - System Administration
+ - Networking
 
 They control ticket assignment and visibility.
 
